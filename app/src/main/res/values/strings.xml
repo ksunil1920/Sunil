@@ -1,0 +1,982 @@
+<resources>
+    <string name="app_name">Sky Chalisa Aarti</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="shri">Shri </string>
+    <string name="chalisa"> Chalisa </string>
+    <string name="aarti"> Aarti </string>
+    <string name="chalisa.aarti"> All Chalisa And Aarti </string>
+    <string name="chalisa.aarti.details">Get all the required list of chalisa and aart </string>
+
+
+    <string name="Hanuman_Chalisa"> " Sri Hanuman Chalisa
+
+
+Doha
+
+Shri Guru Charan Sarooja-raj Nija manu Mukura Sudhaari
+Baranau Rahubhara Bimala Yasha Jo Dayaka Phala Chari
+Budhee-Heen Thanu Jannikay Sumirow Pavana Kumara
+Bala-Budhee Vidya Dehoo Mohee Harahu Kalesha Vikaara
+
+
+Chopai
+
+Jai Hanuman gyan gun sagar
+Jai Kapis tihun lok ujagar
+
+
+Ram doot atulit bal dhama
+Anjaani-putra Pavan sut nama
+
+
+Mahabir Bikram Bajrangi
+Kumati nivar sumati Ke sangi
+
+
+Kanchan varan viraj subesa
+Kanan Kundal Kunchit Kesha
+
+
+Hath Vajra Aur Dhuvaje Viraje
+Kaandhe moonj janehu sajai
+
+
+Sankar suvan kesri Nandan
+Tej prataap maha jag vandan
+
+
+Vidyavaan guni ati chatur
+Ram kaj karibe ko aatur
+
+
+Prabu charitra sunibe-ko rasiya
+Ram Lakhan Sita man Basiya
+
+
+Sukshma roop dhari Siyahi dikhava
+Vikat roop dhari lank jarava
+
+
+Bhima roop dhari asur sanghare
+Ramachandra ke kaj sanvare
+
+
+Laye Sanjivan Lakhan Jiyaye
+Shri Raghuvir Harashi ur laye
+
+
+Raghupati Kinhi bahut badai
+Tum mam priye Bharat-hi-sam bhai
+
+
+Sahas badan tumharo yash gaave
+Asa-kahi Shripati kanth lagaave
+
+
+Sankadhik Brahmaadi Muneesa
+Narad-Sarad sahit Aheesa
+
+
+Yam Kuber Digpaal Jahan te
+Kavi kovid kahi sake kahan te
+
+
+Tum upkar Sugreevahin keenha
+Ram milaye rajpad deenha
+
+
+Tumharo mantra Vibheeshan maana
+Lankeshwar Bhaye Sub jag jana
+
+
+Yug sahastra jojan par Bhanu
+Leelyo tahi madhur phal janu
+
+
+Prabhu mudrika meli mukh mahee
+Jaladhi langhi gaye achraj nahee
+
+
+Durgaam kaj jagath ke jete
+Sugam anugraha tumhre tete
+
+
+Ram dwaare tum rakhvare
+Hoat na agya binu paisare
+
+
+Sub sukh lahae tumhari sar na
+Tum rakshak kahu ko dar naa
+
+
+Aapan tej samharo aapai
+Teenhon lok hank te kanpai
+
+
+Bhoot pisaach Nikat nahin aavai
+Mahavir jab naam sunavae
+
+
+Nase rog harae sab peera
+Japat nirantar Hanumant beera
+
+
+Sankat se Hanuman chudavae
+Man Karam Vachan dyan jo lavai
+
+
+Sab par Ram tapasvee raja
+Tin ke kaj sakal Tum saja
+
+
+Aur manorath jo koi lavai
+Sohi amit jeevan phal pavai
+
+
+Charon Yug partap tumhara
+Hai persidh jagat ujiyara
+
+
+Sadhu Sant ke tum Rakhware
+Asur nikandan Ram dulhare
+
+
+Ashta-sidhi nav nidhi ke dhata
+As-var deen Janki mata
+
+
+Ram rasayan tumhare pasa
+Sada raho Raghupati ke dasa
+
+
+Tumhare bhajan Ram ko pavai
+Janam-janam ke dukh bisraavai
+
+
+Anth-kaal Raghuvir pur jayee
+Jahan janam Hari-Bakht Kahayee
+
+
+Aur Devta Chit na dharehi
+Hanumanth se hi sarve sukh karehi
+
+
+Sankat kate-mite sab peera
+Jo sumirai Hanumat Balbeera
+
+
+Jai Jai Jai Hanuman Gosahin
+Kripa Karahu Gurudev ki nyahin
+
+
+Jo sat bar path kare kohi
+Chutehi bandhi maha sukh hohi
+
+
+Jo yah padhe Hanuman Chalisa
+Hoye siddhi sakhi Gaureesa
+
+
+Tulsidas sada hari chera
+Keejai Nath Hridaye mein dera
+
+
+Doha
+
+Pavan Tanay Sankat Harana
+Mangala Murati Roop
+Ram Lakhana Sita Sahita
+Hriday Basahu Soor Bhoop " </string>
+    <string name="Durga_Chalisa"> " Namo Namo Durge Sukh Karani, Namo Namo Ambe Dukh Harani
+Nirakar Hai Jyoti Tumhari, Tihoun Lok Phaili Uujiyaari
+
+Shashi Lalaat Mukh Maha Vishala, Netra Lal Bhrikoutee Vikaraala
+Roop Maatu Ko Adhik Suhaave, Darshan Karata Jana Ati Sukh Paave
+
+Tum Sansar Shakti Laya Keena, Palana Hetu Anna Dhan Deena
+Annapoorna Hui Tu Jag Pala, Tumhi Aadi Sundari Bala
+
+Pralayakala Sab Nashana Haari, Tum Gouri Shiv Shankar Pyari
+Shiv Yogi Tumhre Gun Gaavein, Brahma Vishnu Tumhein Nit Dhyavein
+
+Roop Saraswati Ka Tum Dhara, Day Subuddhi Rishi Munina Ubara
+Dharyo Roop Narsimha Ko Amba, Pragat Bhayi Phaad Ke Khamba
+
+Raksha Kari Prahlad Bachaayo, Hiranyaykush Ko Swarga Pathayo
+Lakshmi Roop Dharo Jag Maahin, Shree Narayan Anga Samahin
+
+Ksheer Sindhu Mein Karat Vilaasa, Daya Sindhu Deejey Man Aasa
+Hingalaja Mein Tumhi Bhavani, Mahima Amit Na Jaat Bakhani
+
+Matangi Aru Dhoomawati Mata, Bhuvaneshwari Bagala Sukhdata
+Shree Bhairav Tara Jag Tarani, Chhinna Bhala Bhava Dukh Nivarini
+
+Kehari Vahan Soha Bhavani, Laangur Veer Chalata Agavani
+Kar Mein Khappar Khadaga Virajay, Jako Dekh Kaal Dar Bhajey
+
+Sohe Astra Aur Trishula, Jase Uthata Shatru Hiya Shoola
+Nagarkot Mein Toumhi Virajat, Tihoun Lok Mein Danka Baajat
+
+Nagarkot Mein Toumhi Virajat, Tihoun Lok Mein Danka Baajat Shumbh
+Nishumbh Daanuv Tum Maare, Rakta Beej Shankhana Sanghaare
+
+Mahishasur Nrip Ati Abhimaani, Jehi Agh Bhar Mahi Akulaani
+Roop Karaal Kali ka Dhara, Sen Sahita Tum Tihin Samhara
+
+Pari Gaarh Santana Par Jab Jab, Bhayi Sahay Matou Tum Tab Tab
+Amarpuri Arubaa Sab Lokaa, Tab Mahima Sab Kahey Ashoka
+
+Jwala Mein Hai Jyoti Tumhari, Tumhein Sada Poojey Nar Nari
+Prem Bhakti Se Jo Yash Gave, Dukh Daridra Nikat Nahin Aave
+
+Dhyaave Tumhein Jo Nar Man Layi, Janma Maran Tako Chhouti Jaayi
+Yogi Sur Muni Kahat Pukaari, Yog Na Hoye Bina Shakti Tumhari
+
+Shankara Acharaj Tap Ati Keenho, Kaam Krodh Jeet Sab Leenho
+Nishidin Dhyan Dharo Shankar Ko, Kaahu Kaal Nahin Soumiro Tumko
+
+Shakti Roop Ko Maram Na Payo, Shakti Gayi Tab Man Pachitayo
+Sharnagat Huyi Kirti Bakhaani, Jai Jai Jai Jagadambe Bhavani
+
+Bhayi Prasanna Aadi Jagadamba, Dayi Shakti Nahin Keen Vilamba
+Maukon Maatu Kashta Ati Ghero, Tum Bin Kaun Harey Dukh Mero
+
+Asha Trishna Nipat Satavein, Ripu Moorakh Mohe Ati Darpaave
+Shatru Nash Kijey Maharani, Soumiron Ikchit Tumhein Bhavani
+
+Karo Kripa Hey Maatu Dayala, Riddhi Siddhi Dey Karahou Nihaala
+Jab Lagi Jiyoun Daya Phal Paoun, Tumhro Yash Mein Sada Sounaoun
+
+Durga Chalisa Jo Nar Gaavey, Sab Sukh Bhog Parampad Pavey
+Devidas Sharan Nij Jaani, Karahoun Kripa Jagadambe Bhavani "</string>
+    <string name="Laxmi_Chalisa"> " Maatu Lakshmi Kari Kripaa, Karahu Hriday Mein Vaas I
+Manokamana Siddh Kari, Puravahu Meri Aas I I
+
+Sindhusuta Main Sumiron Tohi, Gyaan Buddhi Vidhya Dehu Mohi II
+Tum Samaan Nahin Kou Upakaari, Sab Vidhi Puravahu Aas Hamaari II
+
+Jai Jai Jagat Janani Jagadambaa, Sab Ki Tumahi Ho Avalambaa II
+Tumahii Ho Ghat Ghat Ki Waasi, Binti Yahi Hamarii Khaasi II
+
+Jag Janani Jai Sindhu Kumaari, Deenan Ki Tum Ho Hitakaari II
+Vinavon Nitya Tumhi Maharani, Kripa Karo Jag Janani Bhavaani II
+
+Kehi Vidhi Stuti Karon Tihaarii, Sudhi Lijain Aparaadh Bisari II
+Kriapadrishti Chita woh Mam Orii, Jagat Janani Vinatii Sun Mori II
+
+Gyaan Buddhi Jai Sukh Ki Daata, Sankat Harahu Hamaare Maata II
+Kshir Sindhu Jab Vishnumathaayo, Chaudah Ratn Sindhu Mein Paayo II
+
+Sindhusuta Main Sumiron Tohi, Gyaan Buddhi Vidhya Dehu Mohi II
+Tum Samaan Nahin Kou Upakaari, Sab Vidhi Puravahu Aas Hamaari II
+
+Jai Jai Jagat Janani Jagadambaa, Sab Ki Tumahi Ho Avalambaa II
+Tumahii Ho Ghat Ghat Ki Waasi, Binti Yahi Hamarii Khaasi II
+
+Jag Janani Jai Sindhu Kumaari, Deenan Ki Tum Ho Hitakaari II
+Vinavon Nitya Tumhi Maharani, Kripa Karo Jag Janani Bhavaani II
+
+Kehi Vidhi Stuti Karon Tihaarii, Sudhi Lijain Aparaadh Bisari II
+Kriapadrishti Chita woh Mam Orii, Jagat Janani Vinatii Sun Mori II
+
+Gyaan Buddhi Jai Sukh Ki Daata, Sankat Harahu Hamaare Maata II
+Kshir Sindhu Jab Vishnumathaayo, Chaudah Ratn Sindhu Mein Paayo II
+
+Chaudah Ratn Mein Tum Sukhraasi, Seva Kiyo Prabhu Banin Daasi II
+Jab Jab Janam Jahaan Prabhu Linhaa, Roop Badal Tahan Seva Kinhaa II
+
+Swayam Vishnu Jab Nar Tanu Dhaara, Linheu Awadhapuri Avataara II
+Tab Tum Prakat Janakapur Manhin, Seva Kiyo Hriday Pulakaahi II
+
+Apanaya Tohi Antarayaami, Vishva Vidit Tribhuvan Ki Swaami II
+Tum Sam Prabal Shakti Nahi Aani, Kahan Tak Mahimaa Kahaun Bakhaani II
+
+Mann Karam Bachan Karai Sevakaai, Mann Eechhit Phal Paai II
+Taji Chhal Kapat Aur Chaturaai, Pujahi Vividh Viddhi Mann Laai II
+
+Aur Haal Main Kahahun Bujhaai, Jo Yah Paath Karai Mann Laai II
+Taako Koi Kasht Na Hoi, Mann Eechhit Phal Paavay Soii II
+
+Traahi- Traahii Jai Duhkh Nivaarini, Trividh Tap Bhav Bandhan Haarini II
+Jo Yeh Parhen Aur Parhaavay, Dhyan Laga Kar Sunay Sunavay II
+
+Taakon Kou Rog Na Sataavay, Putr Aadi Dhan Sampati Paavay II
+Putraheen Dhan Sampati Heena, Andh Badhir Korhhi Ati Diinaa II
+
+Vipr Bulaay Ken Paath Karaavay, Shaankaa Dil Mein Kabhi Na Laavay II
+Path Karaavay Din Chalisa, Taapar Krapaa Karahin Gaurisaa II
+
+Sukh Sampatti Bahut-Si Paavay, Kami Nanhin Kaahuu Ki Aavay II
+Baarah Maash Karen Jo Puja, Tehi Sam Dhanya Aur Nahin Dujaa II
+
+Pratidin Paath Karehi Man Manhi, Un sam koi Jag Mein Naahin II
+Bahuvidhi Kaya Mein Karahun Baraai, Ley Parikshaa Dhyaan Lagaai II
+
+Kari Vishvaas Karay Vrat Naima, Hoi Siddh Upajay Ur Prema II
+Jai Jai Jai Lakshmi Bhavani, Sab Mein Vyaapit Ho Gun khaani II
+
+Tumhro Tej Prabal Jag Maahin, Tum Sam Kou Dayaalu Kahun Naahin II
+Mohi Anaath Ki Sudhi Ab Lijay, Sannkat Kaati Bhakti Bar Deejay II
+
+Bhool chook Karu Shamaa Hamaari, Darshan Deejay Dasha Nihaari II
+Bin Darshan Vyaakul Adhikari, Tumhin Akshat Dukh Shatte Bhaari II
+
+Nahin Mohi Gyaan Buddhi Hai Tan Mein, Sab Jaanat Ho Apane Mann Mein II
+Roop Chaturbhuj Karke Dhaaran, Kasht Mor Ab Karahu Nivaaran II
+Kehi Prakaar Mein Karahun Badai, Gyaan Buddhi Mohin Nahin Adhikaai II
+
+DOHA:
+
+Traahi Traahi Dukh Haarini, Harahu Vegi Sab Traas I
+Jayati Jayati Jai Lakshmi, Karahu Shatru Ka Naas II "
+</string>
+    <string name="Ganesh_Chalisa">"॥Doha॥
+Jaya Ganapati Sadhguna Sadana,
+Kavi Vara Badana Kripaala।
+Vighna Harana Mangala Karana,
+Jaya Jaya Girijaa Laala॥
+॥Chaupai॥
+Jaya Jaya Ganapati Gan Raaju।
+Mangala Bharana Karana Shubha Kaaju॥
+Jaya Gajabadana Sadana Sukhadaataa।
+Vishva Vinaayaka Buddhi Vidhaata॥
+Vakra Tunda Shuchi Shunda Suhaavana। Tilaka Tripunda Bhaala Mana Bhaavana॥
+Raajata Mani Muktana Ura Maala।
+Svarna Mukuta Shira Nayana Vishaala॥
+Pustaka Paani Kuthaara Trishoolam।
+Modaka Bhoga Sugandhita Phoolam॥
+Sundara Pitaambara Tana Saajita। Charana Paaduka Muni Mana Raajita॥
+Dhani Shiva Suvana Shadaanana Bhraata।
+    Gauri Lalana Vishva-Vidhaata॥
+Riddhi Siddhi Tava Chanvara Sudhaare।
+Mushaka Vaahana Sohata Dvaare॥
+Kahaun Janma Shubha Kathaa Tumhaari। Ati Shuchi Paavana Mangala Kaari॥
+Eka Samaya Giriraaj Kumaari।
+Putra Hetu Tapa Kinha Bhaari॥
+Bhayo Yagya Jaba Poorna Anoopa।
+Taba Pahunchyo Tuma Dhari Dvija Roopa॥
+Atithi Jaani Kai Gauri Sukhaari।
+Bahuvidhi Sevaa Kari Tumhaari॥
+Ati Prasanna Hvai Tuma Vara Dinha।
+Maatu Putra Hita Jo Tapa Kinha॥
+Milahi Putra Tuhi Buddhi Vishaala। Binaa Garbha Dhaarana Yahi Kaala॥
+Gananaayaka, Guna Gyaana Nidhaana।
+Poojita Prathama Roopa Bhagavana॥
+Asa Kahi Antardhyaana Roopa Hvai।
+Palana Para Baalaka Svaroopa Hvai॥
+    Bani Shishu Rudana Jabahi Tuma Thaana।
+Lakhi Mukha Sukha Nahin Gauri Samaan॥
+Sakala Magana, Sukha Mangala Gaavahin। Nabha Te Surana Sumana Varshaavahin॥
+Shambhu Uma, Bahu Dana Lutavahin। Sura Munijana, Suta Dekhana Aavahin॥
+Lakhi Ati Aananda Mangala Saaja।
+Dekhana Bhi Aaye Shani Raaja॥
+Nija Avaguna Guni Shani Mana Maahin। Baalaka, Dekhan Chaahata Naahin॥
+Giraja Kachhu Mana Bheda Badhaayo।
+Utsava Mora Na Shani Tuhi Bhaayo॥
+Kahana Lage Shani, Mana Sakuchaai।
+Kaa Karihau, Shishu Mohi Dikhaai॥
+Nahin Vishvaasa, Uma Ur Bhayau,
+Shani So Baalaka Dekhana Kahyau। ॥
+Padatahin, Shani Driga Kona Prakaasha।
+Baalaka Shira Udi Gayo Aakaasha॥
+Giraja Girin Vikala Hvai Dharani।
+So Dukha Dasha Gayo Nahin Varani॥
+    Haahaakaara Machyo Kailaasha।
+Shani Kinhyon Lakhi Suta Ka Naasha॥
+Turata Garuda Chadhi Vishnu Sidhaaye।
+Kaati Chakra So Gaja Shira Laaye॥
+Baalaka Ke Dhada Upara Dhaarayo।
+Praana, Mantra Padha Shankara Darayo॥
+Naama 'Ganesha' Shambhu Taba Kinhe।
+Prathama Poojya Buddhi Nidhi, Vara Dinhe॥
+Buddhi Pariksha Jaba Shiva Kinha।
+Prithvi Kar Pradakshina Linha॥
+Chale Shadaanana, Bharami Bhulaii।
+Rachi Baitha Tuma Buddhi Upaai॥
+Charana Maatu-Pitu Ke Dhara Linhen।
+Tinake Saata Pradakshina Kinhen॥
+Dhani Ganesha, Kahi Shiva Hiya Harashe।
+Nabha Te Surana Sumana Bahu Barase॥॥
+Tumhari Mahima Buddhi Badaye। Shesha Sahasa Mukha Sakai Na Gaai॥
+    Mein Mati Hina Malina Dukhaari।
+Karahun Kauna Vidhi Vinaya Tumhaari॥
+Bhajata 'Raamasundara' Prabhudaasa।
+Lakha Prayaga, Kakara, Durvasa॥
+Aba Prabhu Daya Dina Para Kijai।
+Apani Bhakti Shakti Kuchhu Dijai॥
+॥Doha॥
+Shri Ganesh Yah Chalisa, Path Karai Dhari Dhyan।
+Nit Nav Mangal Gruha Bashe, Lahi Jagat Sanman॥
+Sambandh Apne Sahstra Dash, Rushi Panchami Dinesh।
+Puran Chalisa Bhayo, Mangal Murti Ganesha॥"</string>
+    <string name="Shiv_Chalisa">"||DOHA||
+Jai Ganesh Girija suvan, Mangal mul sujan
+Kahit Ayodhya das tum, dev abhay vardan
+||CHOPAI||
+Jai Girijapati din dayala, sada karat santan pritpala.
+Bhol chahdrama sohat nike, kanan kundal nag phani ke.
+Ang gaur, shir gangabanae, mundamal tan chhar lagae.
+Vastra khal bagambar sohe, chhavi ko dekh nag muni mohe.
+Maina matu ki havai dulari, bam ang sohat chhavi niyari
+Kar men trishul sohat chhavi bhari karai sada shatrun shahkari
+Nandi Ganesh sohain tahan kaise, sagar madhya kamal hai jaise.
+Kartik shyam aur ganarau, ya chhavi ko kahi jat na kau.
+Devani jab hi ai pukara, tabahin dukh Prabhu ap nivara.
+Kiya upadrav Tarak bhari, devani sab mili turnahin juhari.
+Turant shadanan ap pathayo, lay nimesh mahin mari girayo.
+Ap jaladhar asur sanhara, suyash tumhara vidit sansara.
+Tripurasur sang yudh machai, sabahin kripa kari linh bachai.
+    Kiya tapahin Bhagirath bhari, purve pratigya tasu purari.
+Davan manan tum sam kou nahin, sevak ustuti karat sadai.
+Ved nam mahima tab gai, akath anadi bhed nahin pai
+Pragateu dadi-manthan te jvala, jare surasur bahe bihala.
+Dindayal tahan kari sahai, Nilkanth tab nam kahai.
+Pujan Ramchandra jab kinha, jit ke Lanka Vibhishan dinha.
+Sahas kamal men ho rahe dhari, kinha pariksha tabahi purari
+Ek kamal prabhu rakhyau gohi, kamal nayan pujan chahan soi
+Kathin bhakti dekhi Prabhu Shankar, bhaye prasan diye ichhatvar.
+Jai Jai Jai Anant avinasi, karat kripa sab ke ghat vasi
+Dushat sakal nit mohi satavaen, bhramat rahe mohi chain na avaen.
+Trahi trahi main nath pukarun, yahi avasari mohi, ani ubaro.
+Lai trishul shatruni ko maro, sankat se mohe ani ubaro.
+Mata pita bhrata sab hoi, sankat men puchhat nahin koi.
+Svarmi ek hai as tumhari, ai haranu ab sankat bhari
+Dhan nirdhan ko det sadai, jo koi jancha so phal pahin.
+Ustuti kehi vidhi karaun tumhari, shamahu nath ab chuk hamari
+    Shahkar ho sankat ke nashan, vighna vinashan mangal karan.
+Yogi yati muni dhyan lagavain, sharad Narad shish nivavain.
+Namo, namo jai namo Shivaye, sur Brahmadik par na paye.
+Jo yah path kare man lai, tapar hot hain Shambhu sahai.
+Rinya jo koi ho adhikari, path kare so pavan-hari
+Putra ho na ichchha kari koi, nishchai Shiv prasad te hoi
+Pandit triyodashi ko lavain, dhyan purvak horn karavain.
+Tryodashi vrita kare hamesh, tan nahin take rahe kalesh.
+Dhup dip naived chadhavai, Shankar sanmukh path sunavai.
+Janam Janam ke pap nashavai, ahtvas Shivpur men pavai.
+Kahe Ayodhya as tumhari, jan sakal dukh harahu hamari.
+||DOHA||
+Nitya Nema kari Pratahi, Patha karau Chalis
+Tum Meri Man Kamana,Purna Karahu Jagadish
+Magsir chat hemat ritu, samvat chosath jan
+Stuti chalisa shivhi, puran kin kalyan "</string>
+    <string name="Shani_Chalisa">"||DOHA||
+Jai Ganesh Girija Suwan, Mangal karan kripaal.
+Deenan ke Dhuk dhoor kari, Kheejai Naath Nihaal.
+JaiJai SriShanidev Prabhu, Sunahu Vinay Maharaaj
+Karahu Kruia hey Ravitanay, Rakhahu Jan ki Laaj.
+||CHOPAI||
+Jayathi jayathi shani dayaala,
+karath sadha bhakthan prathipaala.
+Chaari bhuja, thanu shyam viraajay,
+maathey ratan mukut chavi chaajay.
+Param vishaal manohar bhaala,
+tedi dhrishti bhrukuti vikraala.
+Kundal shravan chamaacham chamke, hiye maal mukthan mani dhamkay.
+Kar me gadha thrishul kutaara, pal bich karai arihi samhaara.
+Pinghal, krishno, chaaya, nandhan, yum, konasth, raudra, dhuk bhamjan.
+Sauri, mandh shani, dhasha naama, bhanu puthra poojhin sab kaama.
+Jaapar prabu prasan havain jhaahin, rakhhun raav karai shan maahin.
+    Parvathhu thrun hoi nihaarath, thrunhu ko parvath kari daarath.
+Raaj milath ban raamhin dheenhyo, kaikeyihu ki mathi hari linhiyo.
+Banhu mae mrag kapat dhikaayi, maathu Janki gayi chooraayi.
+Lakanhin shakthi vikal kari daara, machiga dhal mae haahaakaar.
+Raavan ki ghathi-mathi bauraayi, Ramchandra so bair badaayi.
+Dheeyo keet kari kanchan Lanka, baji bajarang beer ki danka.
+Nrip vikram par thuhin pagu dhaara, chitra mayur nigli gai haara.
+Haar naulakka laagyo chori, haath pair darvaayo thori.
+Bhaari dhasha nikrusht dhikaayo, telhin ghar kholhu chalvaayo.
+Vinay raag dheepak mah khinho, tab prasann prabhu hvai sukh dheenho.
+Harishchandra nrip naari bhikani, aaphun bharen dome gar paani.
+Tasse nal par dasha sirani, bhunji-meen koodh gayi paani.
+Sri Shankarhin gahyo jab jaayi, Paarvathi ko sathi karaayi.
+Thanik vilokath hi kari reesa, nabh udi gayo gaurisuth seesa.
+Paandav par bhay dasha thumhaari, bachi draupadhi hothi udhaari.
+Kaurav ke bi gathi mathi maaryo, yudh mahabharath kari daryo.
+Ravi kah mukh mahn dhari thathkala, lekar koodhi paryo paathaala.
+    Saish dhev-lakhi vinthi laayi, Ravi ko mukh thay dhiyo chudaayi.
+Vaahan prabhu kay saah sujana, jag dhigaj gadharbh mragh swaana.
+Jambuk singh aadhi nakh dhari, so phal jyothish kahath pukari.
+Gaj vahan lakshmi gruha aavai, hay thay sukh sampathi upjaavay.
+Gadharbh haani karai bahu kaaja, singh sidh kar raaj samaja.
+Jhambuk budhi nasht kar darai, mrag dhe kasht praan sangharay.
+Jab aavahi prabu swaan savaari, chori aadi hoy dar bhaari.
+Thaishi chaari charan yeh naama, swarn laoh chaandhi aru taama.
+Lauh charan par jab prabu aavain, daan jan sampathi nashta karavain.
+Samatha thaamra rajath shubhkari, swarn sarva sukh mangal bhaari.
+Jo yeh shani charithra nith gavai, kabahu na dasha nikrushta sathavai.
+Adhbuth nath dhikavain leela, karaen shaatru kay nashi bhali dheela.
+Jo pundith suyogya bulvaayi vidhyvath shani graha shanti karayi.
+Peepal jal shani diwas chadavath, deep dhaan dai bahu sukh pawath.
+Kahath Ram Sundhar prabu dasa, Shani sumirath sukh hoth prakasha.
+||DOHA||
+Paath Shanichar Dev ko, ko hoon Vimal Taiyaar.
+    Karat Paath Chalis Din, ho Bhav Sagar Paar. "</string>
+    <string name="Saraswti_Chalisa">"॥Doha॥
+Janaka Janani Pada Kamal Raj, Nija Mastaka Para Dhari।
+Bandaun Matu Saraswati, Buddhi Bala De Datari॥
+Purna Jagat Mein Vyapta Tava, Mahima Amit Anantu।
+Ramsagar Ke Papa Ko, Matu Tuhi Ab Hantu॥
+॥Chaupai॥
+Jai Shri Sakal Buddhi Balarasi। Jai Sarvagya Amar Avinasi॥
+Jai Jai Jai Veenakar Dhari। Karati Sada Suhansa Savari॥
+Roopa Chaturbhujadhari Mata। Sakal Vishva Andar Vikhyata॥
+Jaga Mein Pap Buddhi Jab Hoti। Jabahi Dharma Ki Phiki Jyoti॥
+Tabahi Matu Le Nija Avatara। Pap Heen Karati Mahi Tara॥
+Balmiki Ji The Baham Gyani। Tava Prasad Janai Sansara॥
+Ramayan Jo Rache Banai। Adi Kavi Ki Padavi Pai॥
+Kalidas Jo Bhaye Vikhyata। Teri Kripa Drishti Se Mata॥
+Tulasi Sur Adi Vidvana। Bhaye Aur Jo Gyani Nana॥
+Tinhahi Na Aur Raheu Avalamba। Keval Kripa Apaki Amba॥
+Karahu Kripa Soi Matu Bhavani। Dukhita Dina Nija Dasahi Jani॥
+    Putra Karai Aparadha Bahuta। Tehi Na Dharai Chita Sundara Mata॥
+Rakhu Laja Janani Ab Meri। Vinaya Karu Bahu Bhanti Ghaneri॥
+Main Anath Teri Avalamba। Kripa Karau Jai Jai Jagadamba॥
+Madhu Kaitabh Jo Ati Balavana। Bahuyuddha Vishnu Te Thana॥
+Samara Hajara Panch Mein Ghora।
+Phir Bhi Mukha Unase Nahi Mora॥
+Matu Sahay Bhai Tehi Kala। Buddhi Viparita Kari Khalahala॥
+Tehi Te Mrityu Bhai Khala Keri। Purvahu Matu Manoratha Meri॥
+Chanda Munda Jo The Vikhyata। Chhana Mahu Sanhareu Tehi Mata॥
+Raktabij Se Samarath Papi। Sur-Muni Hridaya Dhara Saba Kampi॥
+Kateu Sira Jima Kadali Khamba। Bara Bara Binavau Jagadamba॥
+Jaga Prasiddha Jo Shumbha Nishumbha।
+Chhina Mein Badhe Tahi Tu Amba॥
+Bharata-Matu Budhi Phereu Jayi। Ramachandra Banvasa Karai॥
+Ehi Vidhi Ravana Vadha Tum Kinha।
+Sura Nara Muni Saba Kahun Sukha Dinha॥
+Ko Samarath Tava Yasha Guna Gana। Nigama Anadi Ananta Bakhana॥
+    Vishnu Rudra Aja Sakahin Na Mari। Jinaki Ho Tum Rakshakari॥
+Rakta Dantika Aur Shatakshi। Nama Apar Hai Danava Bhakshi॥
+Durgam Kaj Dhara Para Kinha।
+Durga Nama Sakala Jaga Linha॥
+Durg Adi Harani Tu Mata। Kripa Karahu Jab Jab Sukhadata॥
+Nripa Kopita Jo Marana Chahai। Kanan Mein Ghere Mriga Nahai॥
+Sagara Madhya Pota Ke Bhange। Ati Toofana Nahi Kou Sange॥
+Bhoota Preta Badha Ya Dukha Mein। Ho Daridra Athava Sankata Mein॥
+Nama Jape Mangala Saba Hoi। Sanshaya Isamein Karai Na Koi॥
+Putrahin Jo Atur Bhai। Sabai Chhandi Puje Ehi Mai॥
+Karai Patha Nita Yaha Chalisa। Hoya Putra Sundara Guna Isa॥
+Dhupadika Naivedya Chadhavai। Sankata Rahita Avashya Ho Javai॥
+Bhakti Matu Ki Karai Hamesha। Nikata Na Avai Tahi Kalesha॥
+Bandi Patha Karein Shata Bara। Bandi Pasha Dura Ho Sara॥
+Karahu Kripa Bhavamukti Bhavani। Mo Kahan Dasa Sada Nija Jani॥
+॥Doha॥
+Mata Suraj Kanti Tava, Andhakara Mam Roopa।
+    Dooban Te Raksha Karahu, Parum Na Main Bhava-Koop॥
+Bala Buddhi Vidya Dehu Mohi, Sunahu Saraswati Matu।
+Adhama Ramasagarahim Tum, Ashraya Deu Punatu॥ "</string>
+    <string name="Krishana_Chalisa"> " ||Doha||
+Banshi shobhit kar madhur, nil jalaj tanu shyam.
+Arun adhar janu bimba phal, nayan kamal abhiram.
+Puran Indu Arvind mukh, pitambar suchi saj.
+Jai Man Mohan Madan chhavi,Krishiaachandra maharaj.
+||CHOPAI||
+Jai jai Yadunandan jag vandan. Jai Vasudev Devki nandan.
+Jai Yashoda sut Nandadulare. Jai prabhu bhaktan ke rakhvare.
+Jai Natanagar Nag nathaiya. Krishna Kanhaiya dhenu charaiya.
+Puni nakh par Prabhu Girivar dharo. Ao dinan-kasht nivaro.
+Banshi madhur adhar-dhari tero. Hove puran manorath mero.
+Ao Harli puni makhan chakho. Aaj laj bhaktan ki rakho.
+Gol kapol chibuk arunare. Mridu muskan mohini dare.
+Rajit Rajiv nayan vishala. Mor mukut vaijantimala.
+Kundal shravan pit pat achhe. Kati kinkini kachhani kachhe.
+Nil jalaj sundar tan sohai. Chhavi lakhi sur nar muni man mohai.
+Mastak tilak alak ghunghrale. Ao Shyam bansuriya vale.
+    Kari pai pan putanahin taryo. Aka-baka kagasur maryo.
+Madhuvan jalat agin jab jvala. Bhe shital lakhatahin Nandaiala.
+Jab surpati Brij chadhyo risai. Musar dhar bari barsai.
+Lakhat lakhat Bnij chahat bahayo. Govardhan nakh dhari bachayo.
+Lakhi Yashuda man bhram adhikai. Mukh mahan chaudah bhuvan dikhai.
+Dusht Kansa ati udham machayo. Koti kamal kahan phul mangayo.
+Nathi kaiiyahin ko tum linhyo. Charan chinh dai nirbhai kinhyo.
+Kari gopin sang ras bilasa. Sab ki pur kari abhilasa.
+Aganit maha asur sanharyo. Kansahi kesh pakadi dai maryo.
+Matu pita ki bandi chhudayo. Ugrasen kahan raj dilayo.
+Him se mritak chhahon sut layo. Matu Devakl shok mitayo.
+Narkasur mur khal sanhari. Lae shatdash sahas kumari.
+Dai Bhimahin tran chiri isara. Jarasindh rakshas kahan mara.
+Asur vrikasur adik maryau. Nij bhaktan kar kasht nivaryau.
+Din Sudama ke dukh taryo. Tandul tin muthi mukh daryo.
+Duryodhan ke tyagyo meva. Kiyo Vidur ghar shak kaleva.
+Lakhi prem tuhin mahima bhari. Naumi Shyam danan hitkari.
+    Bharat men parath-rath hanke. Liye chakra kar nahin bat thake.
+Nij Gita ke gyan sunaye. Bhaktan hridai sudha sarsaye.
+Mira aisi matvali. vish pi gayi bajakar tali.
+Rana bheja saap pitari. Shaligram bane banvari.
+Nij maya tum vidhihin dikhayo. Urte sanshai sakal mitayo.
+Tav shatninda kari tatkala, jivan mukt bhayo shishupala.
+Jabahin Draupadi ter lagai. Dinanath laj ab jai.
+Turatahih basan bane Nandlala. Badhay chir bhe ari munh kala.
+As anath ke nath Kanhaiya. Dubat bhanvar bachavahi naiya.
+ "Sundardas" Aas ur Dharri. Daya Drishti Keejay Banwari.
+Nath sakai un kumati nivaro. chhamon vegi apradh hamaro.
+Kholo pat ab darshan dijai. Bolo Krishna Kanhaiya ki jai.
+||Doha||
+Yeh chalisa Krishna ka, path krai ur dhari,
+asht siddhi nay niddhi phal, lahai padarath chari. " </string>
+    <string name="Surya_Chalisa">"॥Doha॥
+Kanaka Badana Kundala Makara, Mukta Mala Anga।
+Padmasana Sthita Dhyaie,
+Shankha Chakra Ke Sanga॥
+॥Chaupai॥
+Jai Savita Jai Jayati Divakara!।
+Sahasranshu! Saptashva Timirahara॥
+Bhanu! Patanga! Marichi! Bhaskara!।
+Savita Hansa! Sunura Vibhakara॥
+Vivaswana! Aditya! Vikartana। Martanda Harirupa Virochana॥
+Ambaramani! Khaga! Ravi Kahalate।
+Veda Hiranyagarbha Kaha Gate॥
+Sahasranshu Pradyotana, Kahikahi। Munigana Hota Prasanna Modalahi॥
+Aruna Sadrisha Sarathi Manohara।
+Hankata Haya Sata Chadi Ratha Para॥
+Mandala Ki Mahima Ati Nyari। Teja Rupa Keri Balihari॥
+Uchchaihshrava Sadrisha Haya Jote। Dekhi Purandara Lajjita Hote॥
+    Mitra Marichi Bhanu Aruna Bhaskara।
+Savita Surya Arka Khaga Kalikara॥
+Pusha Ravi Aditya Nama Lai। Hiranyagarbhaya Namah Kahikai॥
+Dwadasa Nama Prema So Gavain।
+Mastaka Baraha Bara Navavain॥
+Chara Padaratha Jana So Pavai। Dukha Daridra Agha Punja Nasavai॥
+Namaskara Ko Chamatkara Yaha।
+Vidhi Harihara Ko Kripasara Yaha॥
+Sevai Bhanu Tumahin Mana Lai।
+Ashtasiddhi Navanidhi Tehin Pai॥
+Baraha Nama Uchcharana Karate। Sahasa Janama Ke Pataka Tarate॥
+Upakhyana Jo Karate Tavajana। Ripu So Jamalahate Sotehi Chhana॥
+Dhana Suta Juta Parivara Badhatu Hai।
+Prabala Moha Ko Phanda Katatu Hai॥
+Arka Shisha Ko Raksha Karate। Ravi Lalata Para Nitya Biharate॥
+Surya Netra Para Nitya Virajata।
+Karna Desa Para Dinakara Chhajata॥
+    Bhanu Nasika Vasakarahunita। Bhaskara Karata Sada Mukhako Hita॥
+Ontha Rahai Parjanya Hamare।
+Rasana Bicha Tikshna Basa Pyare॥
+Kantha Suvarna Reta Ki Shobha। Tigma Tejasah Kandhe Lobha॥
+Pusham Bahu Mitra Pithahin Para।
+Tvashta Varuna Rahata Su-Ushnakara॥
+Yugala Hatha Para Raksha Karana। Bhanumana Urasarma Su-Udarachana॥
+Basata Nabhi Aditya Manohara। Katimanha,
+Rahata Mana Mudabhara॥
+Jangha Gopati Savita Basa। Gupta Divakara Karata Hulasa॥
+Vivaswana Pada Ki Rakhavari।
+Bahara Basate Nita Tam Hari॥
+Sahasranshu Sarvanga Samharai। Raksha Kavacha Vichitra Vichare॥
+Asa Jojana Apane Mana Mahi।
+Bhaya Jagabicha Karahun Tehi Nahi॥
+Dadru Kushtha Tehi Kabahu Na Vyapai। Jojana Yako Mana Manha Japai॥
+Andhakara Jaga Ka Jo Harata। Nava Prakasha Se Ananda Bharata॥
+    Graha Gana Grasi Na Mitavata Jahi। Koti Bara Main Pranavaun Tahi॥
+Manda Sadrisha Suta Jaga Me Jake। Dharmaraja Sam Adbhuta Banke॥
+Dhanya-Dhanya Tuma Dinamani Deva। Kiya Karata Suramuni Nara Seva॥
+Bhakti Bhavayuta Purna Niyam So। Dura Hatataso Bhavake Bhrama So॥
+Parama Dhanya So Nara Tanadhari। Hain Prasanna Jehi Para Tama Hari॥
+Aruna Magha Mahan Surya Phalguna। Madhu Vedanga Nama Ravi Udayana॥
+Bhanu Udaya Baisakha Ginavai। Jyeshtha Indra Ashadha Ravi Gavai॥
+Yama Bhado Ashwin Himareta। Katika Hota Divakara Neta॥
+Agahana Bhinna Vishnu Hain Pusahin। Purusha Nama Ravi Hain Malamasahin॥
+॥Doha॥
+Bhanu Chalisa Prema Yuta, Gavahin Je Nar Nitya।
+Sukha Sampatti Lahi Bibidha, Honhi Sada Kritakritya॥ "</string>
+    <string name="Ram_Chalisa">"||CHOPAI||
+Shri Raghubir bhagat hitkari, suni lije prabhu araj hamari,
+Nisidin dhyan dhare jo koi, ta sam bhakt aur nahi hoi,
+Dhyan dhare shivji man mahi, brahma indra par nahi pahi,
+Jai jai jai raghunath kripala, sada karo santan pratipala.
+Doot tumhar veer hanumana, jasu prabhav tihu pur jana,
+Tuv bhujdand prachand kripala, ravan mari suarn pratipala,
+Tum anath ke nath gosai, deenan ke ho sada sahai,
+Bramhadik tav par na paven, sada eesh tumharo yash gave.
+Chariu ved bharat hai sakhi, tum bhaktan ki lajja rakhi,
+Gun gavat sharad man mahi, surpati tako par na pahi,
+Nam tumhare let jo koi, ta sam dhanya aur nahi hoi,
+Ram naam hai aparampara, charin ved jahi pukara.
+Ganpati naam tumharo linho, tinko pratham pujya tum kinho,
+Shesh ratat nit naam tumhara, mahi ko bhar shish par dhara,
+Phool saman rahat so bhara, pavat kou na tumharo para,
+Bharat naam tumharo ur dharo, taso kabahu na ran mein haro.
+    Naam shatrugna hridaya prakasha, sumirat hot shatru kar nasha,
+Lakhan tumhare agyakari, sada karat santan rakhwari,
+Tate ran jeete nahi koi, yuddh jure yamahu kin hoi,
+Mahalakshmi dhar avtara, sab vidhi karat paap ko chhara.
+Seeta ram puneeta gayo, bhuvaneshwari prabhav dikhayo,
+Ghat sp prakat bhai so aai, jako dehkat chand lajai,
+So tumhare nit paon palotat, navo nidhi charanan mein lotat,
+Siddhi atharah mangalkari, so tum par jave balihari.
+Aurahu jo anek prabhutai, so seetapati tumahi banai,
+Ichchha te kotin sansara, rachat na lagat pal ki bhara,
+Jo tumhare charanan chit lave, taki mukti avasi ho jave,
+Sunahu ram tum tat hamare, tumahi bharat kul poojya prachare.
+Tumahi dev kul dev hamare, tum gurudev pran ke pyare,
+Jo kuch ho so tumhahi raja, jai jai jai prabhu rakho laja,
+Ram atma poshan hare, jai jai jai dasrath ke pyare,
+Jai jai jai prabhu jyoti swarupa, nirgun brahma akhand anoopa.
+Satya satya jai satyavrat swami, satya sanatan antaryami,
+    Satya bhajan tumharo jo gave, So nischay charon phal pave,
+Satya sapath gauripati kinhi, tumne bhaktahi sab siddhi dinhi,
+Gyan hridaya do gyanswarupa, namo namo jai jagpati bhoopa.
+Dhanya dhanya tum dhanya pratapa, naam tumhar harat sntapa,
+Satya shudh deva mukh gaya, baji dundubhi shankh bajaya,
+Satya satya tum satya sanatan, tumahi ho hamare tan man dhan,
+Yako path kare jo koi, gyan prakat take ur hoi.
+Avagaman mitai tihi kera, satya vachan mane shiv mera,
+Aur aas man mein jo hoi, manvanchit phal pave soi,
+Teenahu kal dhyan jo lave, tulsidas anu phool chadhave,
+Saag patra so bhog lagave, so nar sakal siddhata pave.
+Aant samay raghubarpur jai, jaha janma haribhakta kai,
+Shri haridas kahai aru gave, so vaikunth dham ko pave.
+||DOHA||
+Saat divas jo nem kar, path kare chit laye,
+Haridas harikripa se, avasi bhakti ko pave.
+Ram chalisa jo padhe, ram sharan chit laye,
+    Jo ichchha man mein kare, sakal siddh ho jaye"</string>
+
+    <string name="Hanuman_Aarti"> " Aarti Kije Hanuman Lala Ki।
+        Dusht Dalan Ragunath Kala Ki॥
+Jake Bal Se Girivar Kaanpe। Rog Dosh Ja Ke Nikat Na Jhaanke॥
+Anjani Putra Maha Baldaaee। Santan Ke Prabhu Sada Sahai॥
+De Beera Raghunath Pathaaye। Lanka Jaari Siya Sudhi Laaye॥
+Lanka So Kot Samundra-Si Khai। Jaat Pavan Sut Baar Na Lai॥
+Lanka Jaari Asur Sanhare। Siyaramji Ke Kaaj Sanvare॥
+Lakshman Moorchhit Pade Sakaare। Aani Sajeevan Pran Ubaare॥
+Paithi Pataal Tori Jam-kaare। Ahiravan Ke Bhuja Ukhaare॥
+Baayen Bhuja Asur Dal Mare। Daahine Bhuja Santjan Tare॥
+Sur Nar Muni Aarti Utare। Jai Jai Jai Hanuman Uchaare॥
+Kanchan Thaar Kapoor Lau Chhaai। Aarti Karat Anjana Maai॥
+Jo Hanumanji Ki Aarti Gaave। Basi Baikunth Param Pad Pave॥ "</string>
+    <string name="Durga_Aarti">"Ai ambe gauri, mayya jai shyama gauri
+Tumko nish-din dhyavat, hari brahma shivji
+Jai ambe gauri
+
+Maang sindoor virajat, tiko mrig-mad ko
+Ujjwal se dou naina, chandra vadan niko
+Jai ambe gauri
+
+Kanak samaan kalewar, raktaambar raaje
+Rakt pushp gal-mala, kanthan par saaje
+Jai ambe gauri
+
+Kehri vahan rajat, kharag khapar dhaari
+Sur nar muni jan sevat, tinke dukh haari
+Jai ambe gauri
+
+Kanan kundal shobhit, naas-agre moti
+Kotik chandra divakar, sum rajat jyoti
+Jai ambe gauri
+
+Shumbh ni-shumbh vidare, mahisha sur ghati
+Dhumra-vilochan naina, nish-din- mad mati
+Jai ambe gauri
+
+Chandh mundh sangh-haare, shonit beej hare
+Madhu kaitabh dou maare, sur bhe heen kare
+Jai ambe gauri
+
+Brahmani rudrani, tum kamla rani
+Aagam nigam bakhani, tum shiv patrani
+Jai ambe gauri
+
+Chon-sath yogini gavat, nritya karat bhairon
+Baajat taal mridanga, aur baajat damaroomaroo
+Jai ambe gauri
+Tum ho jag ki maata, tum hi ho bharta
+Bhakto ki dukh harata, sukh sampati karata
+Jai ambe gauri
+
+Bhuja chaar ati shobit, var mudra dhaari
+Man vaanchit phal pavat, sevat nar naari
+Jai ambe gauri
+
+Kanchan thaal virajat, agar kapoor baati
+Shri maal-ketu me rajat, kotik ratan jyoti
+Jai ambe gauri
+
+Shri ambe-ji-ki aaarti, jo koi nar gaave
+Kahat shivanand swami, sukh sampati paave
+Jai ambe gauri"
+</string>
+    <string name="Laxmi_Aarti"> " Aarti Shri Lakshmi Ji
+Om Jai Lakshmi Mata, Maiya Jai Lakshmi Mata।
+Tumako Nishidin Sevat, Hari Vishnu Vidhata॥
+Om Jai Lakshmi Mata॥
+Uma Rama Brahmani, Tum Hi Jag-Mata।
+Surya-Chandrama Dhyavat Naarad Rishi Gata॥
+Om Jai Lakshmi Mata॥
+Durga Roop Niranjani, Sukh Sampatti Data।
+Jo Koi Tumako Dhyavat, Riddhi-Siddhi Dhan Pata॥
+Om Jai Lakshmi Mata॥
+Tum Patal-Nivasini, Tum Hi Shubhdata।
+Karma-Prabhav-Prakashini, Bhavanidhi Ki Trata॥
+Om Jai Lakshmi Mata॥
+Jis Ghar Mein Tum Rahti, Sab Sadgun Aata।
+Sab Sambhav Ho Jata, Man Nahi Ghabrata॥
+Om Jai Lakshmi Mata॥
+Tum Bin Yagya Na Hote, Vastra Na Koi Pata।
+Khan-Pan Ka Vaibhav, Sab Tumase Aata॥
+Om Jai Lakshmi Mata॥
+Shubh-Gun Mandir Sundar, Kshirodadhi-Jata।
+Ratna Chaturdash Tum Bin, Koi Nahi Pata॥
+Om Jai Lakshmi Mata॥
+Mahalakshmi Ji Ki Aarti, Jo Koi Jan Gata।
+Ur Anand Samata, Paap Utar Jata॥
+Om Jai Lakshmi Mata॥ "</string>
+    <string name="Ganesh_Aarti"> "Sukhkarta Dukhharta Varta Vighnachi ||
+Nurvi Purvi Prem Krupa Jayachi ||
+Sarvangi Sundar Uti Shendurachi ||
+Kanti Jhalke Mal Mukataphalaanchi..||
+Jaidev Jaidev Jai Mangal Murti ||
+Darshan Maatre Man: Kaamna Phurti ||
+Ratnakhachit Phara Tujh Gaurikumra ||
+Chandanaachi Uti Kumkumkeshara ||
+Hirejadit Mukut Shobhato Bara ||
+Runjhunati Nupure(2) Charani Ghagriya ||
+Jaidev Jaidev Jai Mangal Murti ||
+Lambodar Pitaambar Phanivarvandana ||
+Saral Sond Vakratunda Trinayana ||
+Das Ramacha Vat Pahe Sadana ||
+Sankati Pavave Nirvani Rakshave Survarvandana ||
+Jaidev Jaidev Jai Mangal Murti || "</string>
+    <string name="Shiv_Aarti"> " Om Jai Shiv Omkara, Swami Jai Shiv Omkara।
+Brahma, Vishnu, Sadashiv, Ardhangi Dhara॥
+Om Jai Shiv Omkara॥
+Ekanan Chaturanan Panchanan Raje।
+Hansanan, Garudasan Vrishvahan Saje॥
+Om Jai Shiv Omkara॥
+Do Bhuj, Chaar Chaturbhuj Dashabhuj Ati Sohe।
+Trigun Roop Nirakhate Tribhuvan Jan Mohe॥
+Om Jai Shiv Omkara॥
+Akshamala Vanamala Mundamala Dhari।
+Tripurari Kansari Kar Mala Dhari॥
+Om Jai Shiv Omkara॥
+Shvetambar Pitambar Baaghambar Ange।
+Sankadik Garunadik Bhootadik Sange॥
+Om Jai Shiv Omkara॥
+Kar Ke Madhya Kamandalu Chakra Trishuldhari।
+Sukhakari Dukhahari Jagpalan Kari॥
+        Om Jai Shiv Omkara॥
+Brahma Vishnu Sadashiv Janat Aviveka।
+Madhu-Kaitabh Dou Mare, Sur Bhayheen Kare॥
+Om Jai Shiv Omkara॥
+Lakshmi Va Savitri Parvati Sanga।
+Parvati Ardhangi, Shivalahari Ganga॥
+Om Jai Shiv Omkara॥
+Parvat Sauhen Parvati, Shankar Kailasa।
+Bhaang Dhatoor Ka Bhojan, Bhasmi Me vaasa॥
+Om Jai Shiv Omkara॥
+Jataa Me Ganga Bahat Hai, Gal Mundan Mala।
+Shesh Naag Liptavat, Odat Mrigchhala॥
+Om Jai Shiv Omkara॥
+Kashi Me Viraje Vishwanath, Nandi Brahmchari।
+Nit Uth Darshan Paavat, Mahima Ati Bhaari॥
+Om Jai Shiv Omkara॥
+Trigunswami Ji Ki Aarti Jo Koi Nar Gave।
+    Kahat Shivanand Swami, Manvanchhit Phal Pave॥
+Om Jai Shiv Omkara॥ "</string>
+    <string name="Shani_Aarti">"Jai Jai Shri Shanidev Bhaktan Hitakari।
+Suraj Ke Putra Prabhu Chhaya Mahatari॥
+Jai Jai Shri Shanidev Bhaktan Hitakari॥
+Shyam Ang Vakra-Drishti Chaturbhuja Dhaari।
+Nilambar Dhaar Nath Gaj Ki Asawari॥
+Jai Jai Shri Shanidev Bhaktan Hitakari॥
+Kreet Mukut Shish Sahaj Dipat Hai Lilari।
+Muktan Ki Maal Gale Shobhit Balihari॥
+Jai Jai Shri Shanidev Bhaktan Hitakari॥
+Modak Aur Mishthan Chade, Chadati Paan Supari।
+Loha, Til, Tel, Udad Mahishi Hai Ati Pyari॥
+Jai Jai Shri Shanidev Bhaktan Hitakari॥
+Dev Danuj Rishi Muni Sumirat Nar Naari।
+Vishvnath Dharat Dhyan Ham Hai Sharan Tumhari॥
+Jai Jai Shri Shanidev Bhaktan Hitakari॥ "</string>
+    <string name="Saraswti_Aarti">" Jai Saraswati Mata, Maiya Jai Saraswati Mata।
+Sadaguna Vaibhava Shalini, Tribhuvana Vikhyata॥
+Jai Saraswati Mata॥
+Chandravadani Padmasini, Dyuti Mangalakari।
+Sohe Shubha Hansa Sawari, Atula Tejadhari॥
+Jai Saraswati Mata॥
+Bayen Kara Mein Veena, Dayen Kara Mala।
+Shisha Mukuta Mani Sohe, Gala Motiyana Mala॥
+Jai Saraswati Mata॥
+Devi Sharana Jo Aye, Unaka Uddhara Kiya।
+Paithi Manthara Dasi, Ravana Samhara Kiya॥
+Jai Saraswati Mata॥
+Vidya Gyana Pradayini, Gyana Prakasha Bharo।
+Moha Agyana Aur Timira Ka, Jaga Se Nasha Karo॥
+Jai Saraswati Mata॥
+Dhupa Deepa Phala Mewa, Maa Swikara Karo।
+Gyanachakshu De Mata, Jaga Nistara Karo॥
+    Jai Saraswati Mata॥
+Maa Saraswati Ki Aarti, Jo Koi Jana Gave।
+Hitakari Sukhakari Gyana Bhakti Pave॥
+Jai Saraswati Mata॥
+Jai Saraswati Mata, Jai Jai Saraswati Mata।
+Sadaguna Vaibhava Shalini, Tribhuvana Vikhyata॥
+Jai Saraswati Mata॥"</string>
+    <string name="Krishana_Aarti">"Aarti Yugalkishore Ki Kijai। Tana Mana Dhana Nyauchhavara Kijai॥
+Gaurshyama Mukha Nirkhana Lijai, Hari Ka Swaroopa Nayana Bhari Pijai।
+Ravi Shashi Koti Badana Ki Shobha, Tahi Nirakhi Mero Mana Lobha।
+Odhe Neela Peeta Pata Saari, Kunjabihari Girivaradhari।
+Phulana Ki Seja Phulana Ki Mala, Ratna Simhasana Baithe Nandalala।
+Kanchana Thala Kapura Ki Bati, Hari Aye Nirmala Bhai Chhati।
+Shri Purushottama Girivaradhari, Aarti Karen Sakala Brajanari।
+Nandanandana Brijabhana Kishori, Paramananda Swami Avichala Jori। " </string>
+    <string name="Surya_Aarti">"Jai Kashyap-Nandan, Om Jai Aditi-Nandan।
+Tribhuvana-Timira-Nikandana, Bhakta-Hridaya-Chandana॥
+Jai Kashyap-Nandan, Om Jai Aditi-Nandan।
+Sapta-Ashvaratha Rajita, Ek Chakradhari।
+Dukhahari-Sukhakari, Manasa-Mala-Hari॥
+Jai Kashyap-Nandan, Om Jai Aditi-Nandan।
+Sura-Muni-Bhusura-Vandita, Vimala Vibhavashali।
+Agha-Dala-Dalana Diwakara, Divya Kirana Mali॥
+Jai Kashyap-Nandan, Om Jai Aditi-Nandan।
+Sakala-Sukarma-Prasavita, Savita Shubhakari।
+Vishwa-Vilochana Mochana, Bhava Bandhana Bhari॥
+Jai Kashyap-Nandan, Om Jai Aditi-Nandan।
+Kamala-Samuha-Vikasaka, Nashaka Traya Tapa।
+Sevata Sahaja Harata, Ati Manasija-Santapa॥
+Jai Kashyap-Nandan, Om Jai Aditi-Nandan।
+Netra-Vyadhi-Hara Survara Bhu-Pida-Hari।
+Vrishti-Vimochana Santata Parahita-Vratadhari॥
+    Jai Kashyap-Nandan, Om Jai Aditi-Nandan।
+Suryadeva Karunakara, Ab Karuna Kijai।
+Hara Agyana-Moha Sab Tatvagyana Dijai॥
+Jai Kashyap-Nandan, Om Jai Aditi-Nandan। "</string>
+    <string name="Ram_Aarti">" Shri Rama Chandra Kripalu Bhajuman, Haran Bhavbhay Darunam।
+Nav Kanj Lochan, kanj Mukh Kar Kanj Pad Kanjarunam॥
+Shri Rama Chandra Kripalu Bhajuman।
+Kandarp Aganit Amit Chhavi, Nav Neel Neerad Sundaram।
+Pat Peet Maanahu Tadit Ruchi-Shuchi Naumi Janak Sutavaram॥
+Shri Rama Chandra Kripalu Bhajuman।
+Bhaju Deenbandhu Dinesh Danav Daitya Vansh Nikandanam।
+Raghunand Anand Kand Kaushal Chandra Dasharath Nandanam॥
+Shri Rama Chandra Kripalu Bhajuman।
+Shir Mukut Kundal Tilak Charu Udar Ang Vibhushanam।
+Ajanubhuj Shar Chap-Dhar Sangram Jit Khardushnam॥
+Shri Rama Chandra Kripalu Bhajuman।
+Iti Vadati Tulsidas, Shankar Shesh Muni Man Ranjanam।
+Mam Hriday Kanj Nivas Kuru, Kaamadi Khal Dal Ganjanam॥
+Shri Rama Chandra Kripalu Bhajuman।
+Man Jahi Raacheu Milahi So Var Sahaj Sundar Sanvaro।
+Karuna Nidhaan Sujaan Sheel Saneh Janat Ravro॥
+    Shri Rama Chandra Kripalu Bhajuman।
+Aehi Bhanti Gauri Asis Sun Siy Hit Hiy Hiy Harshit Ali।
+Tulsi Bhavanihi Poojee Puni Puni Mudit Man Mandir Chali॥
+Shri Rama Chandra Kripalu Bhajuman। "</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string-array name="chalisaAndAartiCollection">
+        <item>Hanuman</item>
+        <item>Durga</item>
+        <item>Laxmi</item>
+        <item>Ganesh</item>
+        <item>Shiv</item>
+        <item>Shani</item>
+        <item>Saraswti</item>
+        <item>Krishana</item>
+        <item>Surya</item>
+        <item>Ram</item>
+    </string-array>
+    <string name="language">English</string>
+    <string name="settings">Settings</string>
+</resources>
